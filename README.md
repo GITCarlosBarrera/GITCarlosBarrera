@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" width="100%" />
 
 <h1 align="center">Hi! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> I'm Carlos Barrera</h1>
 <h3 align="center">Java Backend Developer | Focused on Clean Code & Software Architecture</h3>
@@ -38,7 +38,7 @@ I'm also improving my understanding of backend principles, including **design pa
 ### GitHub Stats 🐈‍⬛
 <p align="center">
   <img height="160" src="https://streak-stats.demolab.com?user=GITCarlosBarrera&theme=tokyonight"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITCarlosBarrera&layout=compact&theme=tokyonight"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITCarlosBarrera&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -53,4 +53,4 @@ I'm also improving my understanding of backend principles, including **design pa
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
