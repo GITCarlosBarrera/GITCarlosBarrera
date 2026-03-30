@@ -37,8 +37,8 @@ I'm also improving my understanding of backend principles, including **design pa
 
 ### GitHub Stats 🐈‍⬛
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=GITCarlosBarrera&theme=tokyonight"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITCarlosBarrera&layout=compact&theme=tokyonight" />
+  <img height="200" src="https://streak-stats.demolab.com?user=GITCarlosBarrera&theme=tokyonight"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITCarlosBarrera&layout=compact&theme=tokyonight" />
 </p>
 
 ---
