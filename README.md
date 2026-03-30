@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%" />
 
 <h1 align="center">Hi! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> I'm Carlos Barrera</h1>
 <h3 align="center">Java Backend Developer | Focused on Clean Code & Software Architecture</h3>
