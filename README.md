@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
 
-<h1 align="center">Hi! <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
-
-<h1 align="center">Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Carlos Barrera</h1>
+<h1 align="center">Hi! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> I'm Carlos Barrera</h1>
 
 <h3 align="center">Java Backend Developer | Focused on Clean Code & Software Architecture</h3>
 
